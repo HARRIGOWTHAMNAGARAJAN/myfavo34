@@ -1,0 +1,202 @@
+body
+{
+    text-align: center;
+    background: linear-gradient( #E1BEE7 0%, #90CAF9 100%);
+    background-repeat: no-repeat;
+}
+
+h1
+{
+    text-align: center;
+    text-shadow: black;
+    font-size: 50;
+}
+
+.MYFAVORITEHOBBY
+{
+    padding: 20px;
+    text-align: center;
+    font-size: 50;
+}
+
+img
+{
+    border-radius: 50%;
+}
+
+.name
+{
+    text-align: center;
+    text-shadow: black;
+    font-size: 70;
+    font-family: cursive;
+}
+
+.link
+{
+    float: left;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-bottom: 5px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+
+.menu
+{
+    list-style: none;
+    font-family: cursive;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    position: absolute;
+    z-index: 10px;
+}
+
+.line{
+    height: 6px;
+    background-color: black;
+    width:70px;
+    margin:8px auto;
+}
+
+.aboutimg
+{
+    border-radius: 25%;
+}
+
+.aboutline
+{
+    text-align: center;
+    font-size: 50px;
+}
+
+#about
+{
+    background-color: aqua;
+    text-align: center;
+    text-shadow: black;
+    font-size: 50;
+}
+
+.aboutname
+{
+    text-align: center;
+    text-shadow: black;
+    font-size: 70px;
+    font-family: cursive;
+}
+
+#work
+{
+    background-color: green;
+    text-align: center;
+    text-shadow: black;
+    font-size: 50;
+}
+
+.workimg
+{
+    border-radius: 50%;
+    height: 480px;
+    width: 500px;
+}
+
+.workline
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-size: 50px;
+}
+
+.workname
+{
+    text-align: center;
+    font-size: 70px;
+    text-shadow: black;
+    color: black;
+    font-family: cursive;
+}
+
+.inspirationline
+{
+    text-align: center;
+    text-shadow: black;
+    color: black;
+    font-size: 50px;
+}
+
+.inspirationname
+{
+    color: black;
+    text-align: center;
+    text-shadow: black;
+    font-size: 70px;
+    font-family: cursive;
+}
+
+#inspiration
+{
+    color: black;
+    text-align: center;
+    text-shadow: black;
+    background-color: orangered;
+    font-size: 50px;
+}
+
+.inspirationimg
+{
+    border-radius: 50%;
+    text-align: center;
+}
+
+.dh
+{
+    text-align: center;
+    text-shadow: black;
+    font-size: 50px;
+    color: black;
+    font-family: cursive;
+    font-weight: 300;
+    font-style: normal;
+    text-decoration: none;
+    text-transform: none;
+    text-decoration-line: none;
+}
+
+.contactline
+{
+    text-align: center;
+    text-shadow: black;
+    font-size: 50;
+}
+
+.contactname
+{
+    font-size: 90;
+    text-align: center;
+    text-shadow: black;
+    color: black;
+    font-family: cursive;
+}
+
+#contact
+{
+    text-align: center;
+    text-shadow: black;
+    font-size: 35;
+}
+
+.footer
+{
+    float: right;
+    text-align: center;
+    text-shadow: black;
+    color: black;
+    font-size: 30;
+}
+
